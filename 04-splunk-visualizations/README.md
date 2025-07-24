@@ -1,4 +1,4 @@
-# Splunk Visualizations Lab 05: Dashboard Creation and Data Visualization
+# Splunk Visualizations Lab 04: Dashboard Creation and Data Visualization
 
 ## Lab Overview
 
